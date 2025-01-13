@@ -1,0 +1,7 @@
+C:\Users\starc\OneDrive\Escritorio\Azure 204 udemy\netApp\bin\publish\WebAppTest.exe
+C:\Users\starc\OneDrive\Escritorio\Azure 204 udemy\netApp\bin\publish\appsettings.Development.json
+C:\Users\starc\OneDrive\Escritorio\Azure 204 udemy\netApp\bin\publish\appsettings.json
+C:\Users\starc\OneDrive\Escritorio\Azure 204 udemy\netApp\bin\publish\WebAppTest.dll
+C:\Users\starc\OneDrive\Escritorio\Azure 204 udemy\netApp\bin\publish\WebAppTest.deps.json
+C:\Users\starc\OneDrive\Escritorio\Azure 204 udemy\netApp\bin\publish\WebAppTest.runtimeconfig.json
+C:\Users\starc\OneDrive\Escritorio\Azure 204 udemy\netApp\bin\publish\WebAppTest.pdb
